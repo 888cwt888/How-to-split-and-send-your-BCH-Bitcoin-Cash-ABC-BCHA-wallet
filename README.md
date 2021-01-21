@@ -1,4 +1,4 @@
-# How to split and send your BCH / Bitcoin Cash ABC | BCHA wallet 
+# How to split and send your BCH / Bitcoin Cash ABC coins | BCHA wallet 
 # Where To Store Bitcoin ABC (BCHA)
 
 Install the [official BCHN wallet](https://bchnwallet.org) and split your BCH coins.
@@ -35,3 +35,19 @@ Hit ``` ctrl + C ``` to stop the server.
 
 ## Writing an article
 In ```/blog/```, copy the ```example.md``` file and replace the content. Run ```gulp``` to preview the article in the browser (located at http://localhost:3000/en/newsroom/filename).
+
+# To split BCH and BCHA, you need to do the following:
+1. Open the [official BCHN wallet](https://bchnwallet.org)
+2. Use existing BCH wallet or Create a new wallet
+3. For example, we will follow this path: "Create a new wallet".
+3.2 Write down your secret mnemonic.
+3.3 Click "I`am save"
+3.4 Click "NEXT -->"
+3.5 Verify
+4. Wait for fast sync
+5. Request a deposit address by clicking the "Receive some coins" or "Receive"
+6. Send your BCH to the deposit address.
+7. Once the transaction is complete, you will see both currencies deposited to your BCHNwallet address.
+8. Withdraw either of BCH or BCHA back to your Wallet address or leave to store them here.
+
+Important: Bear in mind that if someone sends you unsplit coins, your BCH and BCHA might get split again. In that case, you will have to repeat the procedure.
